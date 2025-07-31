@@ -1,7 +1,7 @@
 # Pendown ✍️📚🎉  
 An interactive platform built for college students to **share notes**, **convey messages**, and **organize events** — all in one place.
 
-🚀 Live Demo: coming soon...
+🚀 Live Demo: https://pendown27.netlify.app/
 ---
 
 ## 📌 Overview
@@ -21,9 +21,9 @@ An interactive platform built for college students to **share notes**, **convey 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js (Planned / Under Development)  
-- **Database**: MongoDB (Planned / Under Development)  
-- **Hosting**: Netlify
+- **Backend**: Node.js, Express.js (Planned / Under Development) -> completed 
+- **Database**: MongoDB (Planned / Under Development) -> completed 
+- **Hosting**: Netlify + Render
 
 ---
 
