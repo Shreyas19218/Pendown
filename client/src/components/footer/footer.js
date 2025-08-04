@@ -97,7 +97,7 @@ const Footer = () => {
                     <Link to="https://github.com/Shreyas19218" className="btn-floating btn-sm text-white fontsize23px"><i className="fa-brands fa-github"></i></Link> 
                   </li>
                   <li className="list-inline-item">
-                    <Link to="shreyassnehal6@gmail.com" className="btn-floating btn-sm text-white fontsize23px"><i className="fa-brands fa-instagram"></i></Link> 
+                    <Link to="https://www.instagram.com/shreyas_19218?igsh=bHBwcWI4c3d6Znk5" className="btn-floating btn-sm text-white fontsize23px"><i className="fa-brands fa-instagram"></i></Link> 
                   </li>
                  
                 </ul>
