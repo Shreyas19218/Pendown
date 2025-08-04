@@ -43,5 +43,26 @@ LOCAL-FOR-VOCAL/
 │   ├── pages/
 │   ├── assets/
 │   └── App.js
+├── backend/
+│   ├── config/           # Database connection and environment setup
+│   │   └── db.js
+│   ├── controllers/      # Logic for handling routes
+│   │   ├── noteController.js
+│   │   ├── userController.js
+│   │   └── eventController.js
+│   ├── models/           # Mongoose schemas
+│   │   ├── Note.js
+│   │   ├── User.js
+│   │   └── Event.js
+│   ├── routes/           # Express route definitions
+│   │   ├── noteRoutes.js
+│   │   ├── userRoutes.js
+│   │   └── eventRoutes.js
+│   ├── middleware/       # Auth middleware or error handlers
+│   │   └── authMiddleware.js
+│   ├── .env              # Environment variables
+│   ├── server.js         # Entry point of the backend
+│   └── package.json
 ├── package.json
 └── README.md
+
